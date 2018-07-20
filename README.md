@@ -2,21 +2,6 @@
 
 This work detects the given language/languages present in the given sentence.
 
-```
-usage: detect_language.py [-h]  [--str String]
-               [--supported_language, --sl]
-
-Detect Languages
-
-* required arguements:
-  -- str                         String to detect language/languages present
-  
-* optional arguments:
-  -h, --help                      help message
-  --supported_language, --sl      to know the list of supported languages
-
-```
-
 #### Requirements
 
 ```
@@ -25,3 +10,25 @@ Detect Languages
 * polyglot
 
 ```
+
+#### Installation
+
+1. git clone https://github.com/kumar-shridhar/Detect-Language.git
+2. cd detectLanguage
+3. pip install -r requirements.txt
+
+
+```
+usage: detect_language.py [-h]  [--str String]
+               [--supported_language, --sl]
+
+Detect Languages
+
+optional arguments:
+  -h, --help                      help message
+  --str                           string to detect language
+  --supported_language, --sl      supported languages
+
+```
+
+
