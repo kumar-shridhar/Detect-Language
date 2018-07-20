@@ -32,5 +32,8 @@ detect_language.py [-h]  [--str String]
   --sl, --supported_language      supported languages
 
 ```
+### Run tests
 
-
+'''
+python tests/test.py
+'''
