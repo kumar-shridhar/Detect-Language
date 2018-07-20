@@ -34,6 +34,8 @@ detect_language.py [-h]  [--str String]
 ```
 ### Run tests
 
-'''
+
+```
 python tests/test.py
-'''
+
+```
