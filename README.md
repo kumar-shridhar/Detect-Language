@@ -2,7 +2,7 @@
 
 This work detects the given language/languages present in the given sentence.
 
-#### Requirements
+### Requirements
 
 ```
 * python >=3.4
@@ -11,15 +11,16 @@ This work detects the given language/languages present in the given sentence.
 
 ```
 
-#### Installation
+### Installation
 
 * git clone https://github.com/kumar-shridhar/Detect-Language.git
 * cd Detect-Language
 * pip install -r requirements.txt
 
+### Usage
 
 ```
-usage: detect_language.py [-h]  [--str String]
+detect_language.py [-h]  [--str String]
                [--supported_language, --sl]
 
 Detect Languages
