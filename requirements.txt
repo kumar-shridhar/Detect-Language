@@ -1,0 +1,6 @@
+polyglot == 16.7.4
+langdetect == 1.0.7 
+PyICU == 2.0.3
+pycld2 == 0.31
+
+
