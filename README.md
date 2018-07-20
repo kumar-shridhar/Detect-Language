@@ -29,7 +29,7 @@ detect_language.py [-h]  [--str String]
 
 ** optional arguments:
   -h, --help                      help message
-  --supported_language, --sl      supported languages
+  --sl, --supported_language      supported languages
 
 ```
 
