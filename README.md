@@ -13,9 +13,9 @@ This work detects the given language/languages present in the given sentence.
 
 #### Installation
 
-1. git clone https://github.com/kumar-shridhar/Detect-Language.git
-2. cd Detect-Language
-3. pip install -r requirements.txt
+* git clone https://github.com/kumar-shridhar/Detect-Language.git
+* cd Detect-Language
+* pip install -r requirements.txt
 
 
 ```
