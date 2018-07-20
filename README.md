@@ -8,9 +8,10 @@ usage: detect_language.py [-h]  [--str String]
 
 Detect Languages
 
-required arguements:
+* required arguements:
   -- str                         String to detect language/languages present
-optional arguments:
+  
+* optional arguments:
   -h, --help                      help message
   --supported_language, --sl      to know the list of supported languages
 
