@@ -23,11 +23,12 @@ This work detects the given language/languages present in the given sentence.
 detect_language.py [-h]  [--str String]
                [--supported_language, --sl]
 
-Detect Languages
-
-optional arguments:
-  -h, --help                      help message
+** required arguements:
   --str                           string to detect language
+
+
+** optional arguments:
+  -h, --help                      help message
   --supported_language, --sl      supported languages
 
 ```
