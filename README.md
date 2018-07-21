@@ -48,7 +48,7 @@ Default port used is localhost:8082
 
 
 ```
-docker build docker/Dockerfile 
+docker build Dockerfile 
 
 ```
 
