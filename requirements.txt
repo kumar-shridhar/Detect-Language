@@ -3,5 +3,4 @@ langdetect == 1.0.7
 PyICU == 2.0.3
 pycld2 == 0.31
 pytest == 3.6.3
-
-
+flask
