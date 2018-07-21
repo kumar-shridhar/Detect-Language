@@ -7,4 +7,4 @@ WORKDIR /Detect-Language
 
 RUN pip install -r requirements.txt
 
-ENTRYPOINT 
+ENTRYPOINT python flask_hosted/app.py
